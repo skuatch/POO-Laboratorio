@@ -37,7 +37,5 @@ public class Marca {
     public void setSetor(String setor) {
         this.setor = setor;
     }
-    public static void main(String[] args){
-        System.out.println("sm,.cçndçsj lç");
-    }
-}
+
+ }
